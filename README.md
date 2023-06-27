@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a self taught beginner web developer<br>🤝 It's great if we have some time together<br>🌱 I’m currently learning web Developing <br>⚡ Fun fact, i live in Indonesia 
+🔭 I'm a self taught beginner IoT and Web developer<br>🤝 It's great if we have some time together<br>🌱 I’m currently learning web Developing <br>⚡ Fun fact, i live in Indonesia 
 
 
 ## 🌐 Socials:
