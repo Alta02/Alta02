@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I'm a self taught beginner IoT and Web developer<br>🤝 It's great if we have some time together<br>🌱 I’m currently learning web Developing <br>⚡ Fun fact, i live in Indonesia 
+# 🐍 Hello, World!
+
+🔧 **Code Enthusiast** | A self-taught beginner exploring the realms of IoT and Web Development—powered by curiosity and a sprinkle of Pythonic magic.  
+🌱 **Learning & Growing** | Currently focused on crafting clean and functional web projects, one `def my_journey():` at a time.  
+🌍 **Indonesian Developer** | Proudly coding from the heart of the archipelago.  
+🤝 **Collaboration** | Let’s debug, build, and grow together—because every coder needs a `try-except` buddy!  
+
+🔥 *"Indentation is my rhythm, logic is my melody, and Python keeps it all in harmony."*
 
 
 ## 🌐 Socials:
